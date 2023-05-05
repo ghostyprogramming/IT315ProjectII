@@ -1,7 +1,7 @@
 {
   "Inventory":
   [
-  {"Name":"Chika Takami","Stock":"6","JPN_Name":"高海千歌","Color":"0xFFB000","Price":"$30","Size":"40cm","Image":"https://github.com/ghostyprogramming/IT315ProjectII/blob/main/chikatakami.jpg","Website":"https://solarisjapan.com/products/love-live-sunshine-takami-chika-mega-jumbo-nesoberi-nuigurumi"},
+  {"Name":"Chika Takami","Stock":"6","JPN_Name":"高海千歌","Color":"0xFFB000","Price":"$30","Size":"40cm","Image":"https://github.com/ghostyprogramming/IT315ProjectII/blob/main/chikatakami.jpg?raw=true","Website":"https://solarisjapan.com/products/love-live-sunshine-takami-chika-mega-jumbo-nesoberi-nuigurumi"},
   {"Name":"You Watanabe","Stock":"4","JPN_Name":"None","Color":"0x00A3FF","Price":"$60","Size":"30cm","Image":"youwatanabe.jpg","Website":"htteamfortresscom"},
   {"Name":"Riko Sakurauchi","Stock":"8","JPN_Name":"None","Color":"0xFF87CD","Price":"$80","Size":"50cm","Image":"rikosakurauchi.jpg","Website":"teamfortressom"},
   {"Name":"Ruby Kurosawa","Stock":"2","JPN_Name":"None","Color":"0xFF1382","Price":"$35","Size":"40cm","Image":"rubykurosawa.jpg","Website":"teamfortresscom"},
