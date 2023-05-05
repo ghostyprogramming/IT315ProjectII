@@ -2,14 +2,14 @@
   "Inventory":
   [
   {"Name":"Chika Takami","Stock":"6","JPN_Name":"高海千歌","Color":"0x118a35","Price":"$30","Size":"40cm","Image":"chikatakami.jpg","Website":"https://solarisjapan.com/products/love-live-sunshine-takami-chika-mega-jumbo-nesoberi-nuigurumi"},
-  {"Name":"You Watanabe","Stock":"4","JPN_Name":"None","Color":"0x118a35","Price":"Try to play other game modes","Size":"30cm","Image":"youwatanabe.jpg","Website":"htteamfortresscom"},
-  {"Name":"Riko Sakurauchi","Stock":"8","JPN_Name":"None","Color":"0x118a35","Price":"Try to play other game modes","Size":"50cm","Image":"rikosakurauchi.jpg","Website":"teamfortressom"},
-  {"Name":"Ruby Kurosawa","Stock":"2","JPN_Name":"None","Color":"0x118a35","Price":"Try to play other game modes","Size":"40cm","Image":"rubykurosawa.jpg","Website":"teamfortresscom"},
-  {"Name":"Hanamaru Kunikida","Stock":"9","JPN_Name":"None","Color":"0x118a35","Price":"Try to play other game modes","Size":"10cm","Image":"hanamaru.jpg","Website":"teamfortresscom"},
-  {"Name":"Yoshiko Tsushima","Stock":"12","JPN_Name":"None","Color":"0x118a35","Price":"modes","Size":"10cm","Image":"yoshiko.jpg","Website":"mfortrescom"},
-  {"Name":"Dia Kurosawa","Stock":"10","JPN_Name":"None","Color":"0x118a35","Price":"modes","Size":"100cm","Image":"diakurosawa.jpg","Website":"mfortrescom"},
-  {"Name":"Kanan Matsuura","Stock":"8","JPN_Name":"None","Color":"0x118a35","Price":"modes","Size":"40cm","Image":"kananmatsuura.jpg","Website":"mfortrescom"},
-  {"Name":"Mari Ohara","Stock":"9","JPN_Name":"None","Color":"0x118a35","Price":"modes","Size":"100cm","Image":"mariohara.jpg","Website":"mfortrescom"}
+  {"Name":"You Watanabe","Stock":"4","JPN_Name":"None","Color":"0x118a35","Price":"$60","Size":"30cm","Image":"youwatanabe.jpg","Website":"htteamfortresscom"},
+  {"Name":"Riko Sakurauchi","Stock":"8","JPN_Name":"None","Color":"0x118a35","Price":"$80","Size":"50cm","Image":"rikosakurauchi.jpg","Website":"teamfortressom"},
+  {"Name":"Ruby Kurosawa","Stock":"2","JPN_Name":"None","Color":"0x118a35","Price":"$35","Size":"40cm","Image":"rubykurosawa.jpg","Website":"teamfortresscom"},
+  {"Name":"Hanamaru Kunikida","Stock":"9","JPN_Name":"None","Color":"0x118a35","Price":"20","Size":"10cm","Image":"hanamaru.jpg","Website":"teamfortresscom"},
+  {"Name":"Yoshiko Tsushima","Stock":"12","JPN_Name":"None","Color":"0x118a35","Price":"20","Size":"10cm","Image":"yoshiko.jpg","Website":"mfortrescom"},
+  {"Name":"Dia Kurosawa","Stock":"10","JPN_Name":"None","Color":"0x118a35","Price":"$300","Size":"100cm","Image":"diakurosawa.jpg","Website":"mfortrescom"},
+  {"Name":"Kanan Matsuura","Stock":"8","JPN_Name":"None","Color":"0x118a35","Price":"$30","Size":"40cm","Image":"kananmatsuura.jpg","Website":"mfortrescom"},
+  {"Name":"Mari Ohara","Stock":"9","JPN_Name":"None","Color":"0x118a35","Price":"$300","Size":"100cm","Image":"mariohara.jpg","Website":"mfortrescom"}
   ],
   "Status": "OK"
 }
